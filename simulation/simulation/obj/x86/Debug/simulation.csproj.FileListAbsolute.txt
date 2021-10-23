@@ -1,0 +1,6 @@
+/home/blackpearl/Desktop/tutorials/c-sharp/cslp/simulation/simulation/bin/Debug/simulation.exe
+/home/blackpearl/Desktop/tutorials/c-sharp/cslp/simulation/simulation/bin/Debug/simulation.pdb
+/home/blackpearl/Desktop/tutorials/c-sharp/cslp/simulation/simulation/obj/x86/Debug/simulation.csprojAssemblyReference.cache
+/home/blackpearl/Desktop/tutorials/c-sharp/cslp/simulation/simulation/obj/x86/Debug/simulation.csproj.CoreCompileInputs.cache
+/home/blackpearl/Desktop/tutorials/c-sharp/cslp/simulation/simulation/obj/x86/Debug/simulation.exe
+/home/blackpearl/Desktop/tutorials/c-sharp/cslp/simulation/simulation/obj/x86/Debug/simulation.pdb
