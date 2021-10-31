@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace simulation
 {
@@ -8,9 +9,16 @@ namespace simulation
         {
             Console.WriteLine("Please enter file name");
 
-            var FileName = Console.ReadLine();
+            //var fileName = Console.ReadLine();
+            // basic_input.txt
+            //Console.WriteLine("FileName: " + fileName);
 
-            Console.WriteLine("FileName: " + FileName);
+            string startupPath = Path.Combine(Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.Parent.Parent.FullName, "data/basic_input.txt");
+            string[] fileContent = System.IO.File.ReadAllLines(startupPath);
+            Input input = new Input(fileContent);
+
+            input.parseInput();
+
         }
     }
 }

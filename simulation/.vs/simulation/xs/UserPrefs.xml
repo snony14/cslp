@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{8B320AFA-9836-4EBA-A812-D1F2DCDADA97}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="simulation/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="simulation/Input.cs">
     <Files>
-      <File FileName="simulation/Program.cs" Line="1" Column="1" />
+      <File FileName="simulation/Program.cs" Line="20" Column="32" />
+      <File FileName="simulation/Input.cs" Line="50" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="simulation" expanded="True">
             <Node name="simulation" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Input.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -16,7 +17,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.simulation FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.simulation PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
