@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{8B320AFA-9836-4EBA-A812-D1F2DCDADA97}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="simulation/Input.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="simulation/Network.cs">
     <Files>
       <File FileName="simulation/Program.cs" Line="20" Column="32" />
-      <File FileName="simulation/Input.cs" Line="50" Column="10" />
+      <File FileName="simulation/Input.cs" Line="268" Column="27" />
+      <File FileName="simulation/Network.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="simulation" expanded="True">
             <Node name="simulation" expanded="True">
-              <Node name="Input.cs" selected="True" />
+              <Node name="Network.cs" selected="True" />
             </Node>
           </Node>
         </State>
